@@ -3,7 +3,7 @@
 The Human Resources (HR) department is a cornerstone of any organization, responsible for recruiting, managing employee benefits, and maintaining a healthy work environment. This portfolio project delves into an HR dataset to unveil insights into the organizational employee structure and employee demographics. 
 
 **Dataset:**
-The project utilizes a fictional HR dataset obtained from Kaggle (Link: [HR Dataset on Kaggle](https://www.kaggle.com/datasets/koluit/human-resource-data-set-the-company/download?datasetVersionNumber=538)). This dataset serves as a realistic representation of HR data.
+The project utilizes a fictional HR dataset obtained from Kaggle (Link: [(https://www.kaggle.com/datasets/koluit/human-resource-data-set-the-company/download?datasetVersionNumber=538)]). This dataset serves as a realistic representation of HR data.
 
 **Project Objectives:**
 The primary objectives of this project include:
