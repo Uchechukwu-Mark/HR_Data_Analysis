@@ -1,5 +1,6 @@
-**Introduction:**
-The Human Resources (HR) department is a cornerstone of any organization, responsible for recruiting, managing employee benefits, and maintaining a healthy work environment. This portfolio project delves into an HR dataset to unveil insights into the organizational structure and employee demographics. 
+**Introduction**
+
+The Human Resources (HR) department is a cornerstone of any organization, responsible for recruiting, managing employee benefits, and maintaining a healthy work environment. This portfolio project delves into an HR dataset to unveil insights into the organizational employee structure and employee demographics. 
 
 **Dataset:**
 The project utilizes a fictional HR dataset obtained from Kaggle (Link: [HR Dataset on Kaggle](https://www.kaggle.com/datasets/koluit/human-resource-data-set-thecompany/download?datasetVersionNumber=537)). This dataset serves as a realistic representation of HR data.
@@ -12,12 +13,12 @@ The primary objectives of this project include:
 2. **Salary and Compensation:** Exploring salary distribution among employees and examining the compensation structure.
 
 **Data Cleaning:**
-Data cleaning is a crucial step in this analysis. It involved formatting columns appropriately, and creating new columns such as "active_status" to calculate the current number of active employees as of 2023.
+Data cleaning is a crucial step in this analysis. It involved formatting columns appropriately and creating new columns such as "active_status_2023" to calculate the current number of active employees as of 2023 and various other columns.
 
 **Analytical Insights:**
 
 *Employee Demographics:*
-- Out of a total of 4,968 employees recruited by the HR department, 51.2% are male, and 49.8% are female.
+- Out of a total of 4,968 employees ever recruited by the HR department, 51.2% are male, and 49.8% are female.
 - Currently, 50.2% of the total employees are actively employed in the organization, while 49.8% are no longer working for the company.
 
 *Salary and Compensation:*
@@ -27,8 +28,8 @@ Data cleaning is a crucial step in this analysis. It involved formatting columns
 - For compensation, the company has disbursed a total of $890 million. The highest earners on average are the CEO ($500k), CTO ($400k), and Chief Financial Officer ($390k).
 
 *Department and Office Type:*
-- The employees are distributed across various departments, with Technology (1,915 employees), Customer Service (1,218 employees), and Sales (849 employees) being the top three.
-- By job title, there are 1,019 Software Engineers, 595 Account Managers, and 414 Account Executives.
+- The employees are distributed across various departments, with the top 3 based on number of employees being Technology (1,915 employees), Customer Service (1,218 employees), and Sales (849 employees).
+- By job title, the top 3 jobs in the organization are Software Engineering with 1,019 employees, Account Managers 595, and 414 Account Executives.
 - In terms of office type, 59.82% work in corporate offices, while 40.18% work in Technology offices.
 
 *Demographic Insights:*
