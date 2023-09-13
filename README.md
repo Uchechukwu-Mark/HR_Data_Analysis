@@ -46,3 +46,6 @@ No significant challenges or limitations were encountered during this analysis, 
 
 **Future Prospects:**
 Future iterations of this project could explore additional aspects of the company, such as revenue, key performance indicators (KPIs), and departmental contributions to the overall success of the organization. This would provide a more comprehensive understanding of the company's operations and performance.
+
+The SQL query file and PowerBi visual can be found in the file section.
+Kindly leave a comment. Thank you for your time.
